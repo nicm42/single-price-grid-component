@@ -1,0 +1,32 @@
+{
+  "name": "single-price-grid-component-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^1.4.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicm42/single-price-grid-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicm42/single-price-grid-component/issues"
+  },
+  "homepage": "https://github.com/nicm42/single-price-grid-component#readme"
+}
