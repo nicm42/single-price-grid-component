@@ -4,24 +4,24 @@
 @tailwind utilities;
 
 /******** Variables from style guide ********/
-$cyan: hsl(179, 62%, 43%);
+/* $cyan: hsl(179, 62%, 43%);
 $brightYellow: hsl(71, 73%, 54%);
 $lightGrey: hsl(204, 43%, 93%);
-$greyishBlue: hsl(218, 22%, 67%);
+$greyishBlue: hsl(218, 22%, 67%); */
 
 /******** Standard bits ********/
-html, body {
+/* html, body {
   margin: 0;
   padding: 0;
 }
 
 *, *::before, *::after {
   box-sizing: border-box;
-}
+} */
 
 /******** TODO ********/
-body {
+/* body {
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   background-color: $lightGrey;
-}
+} */
