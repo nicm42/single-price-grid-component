@@ -38,6 +38,7 @@ function watchTask() {
             parallel(scssTask),
         )
     ).on('change', browserSync.reload);    
+    watch(files.htmlPath).on('change', browserSync.reload);
 }
 
 // Export the default Gulp task so it can be run

@@ -1,15 +1,19 @@
 module.exports = {
   purge: [],
   theme: {
+    fontFamily: {
+      'karla': ['Karla', 'sans-serif'],
+    },
     extend: {
       colors: {
         'cyan': 'hsl(179, 62%, 43%)',
         'brightYellow': 'hsl(71, 73%, 54%)',
         'lightGrey': 'hsl(204, 43%, 93%)',
-        'greyishBlue': 'hsl(218, 22%, 67%)'
+        'greyishBlue': 'hsl(218, 22%, 67%)',
       },
-      fontFamily: {
-        'sans': ['Karla', 'sans-serif']
+      spacing: {
+        '7': '1.75rem',
+        '15': '3.75rem',
       }
     },
   },
