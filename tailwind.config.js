@@ -10,6 +10,7 @@ module.exports = {
         'brightYellow': 'hsl(71, 73%, 54%)',
         'lightGrey': 'hsl(204, 43%, 93%)',
         'greyishBlue': 'hsl(218, 22%, 67%)',
+        'darkerBrightYellow': 'rgba(192, 223, 52, 0.75)',
       },
       spacing: {
         '8/100': '8%',
