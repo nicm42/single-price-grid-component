@@ -12,6 +12,8 @@ module.exports = {
         'greyishBlue': 'hsl(218, 22%, 67%)',
       },
       spacing: {
+        '1/2': '0.2rem',
+        '2/3': '0.65rem',
         '7': '1.75rem',
         '15': '3.75rem',
         '21': '5.25rem',
