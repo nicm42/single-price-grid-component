@@ -14,6 +14,11 @@ module.exports = {
       spacing: {
         '7': '1.75rem',
         '15': '3.75rem',
+        '21': '5.25rem',
+      },
+      fontSize: {
+        's': '0.8rem',
+        'md': '0.9rem',
       }
     },
   },
